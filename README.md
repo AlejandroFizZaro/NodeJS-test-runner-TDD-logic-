@@ -1,4 +1,4 @@
-# NodeJS-test-runnoer-TDD-logic-
+# NodeJS-test-runner-TDD-logic-
 As Node was updated with version 20, the test runner was stated as stable, so I tried a few lines of code. 
 
 How to activate the test runner --> Go to Node.js official page and search the test runner site
