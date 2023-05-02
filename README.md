@@ -8,9 +8,10 @@ As this module for Node is new for me, I tried TDD and what I can say is that:
     - Is fully recommended to break the requirement into measurable tests and reduce complexity.
     
     - In this code, you can see that I have stated variables, function arrows... I have typed
-      them after the tests are clearly definedIn addition, my code is inside the test curly 
-      braces. I did it fast to check the test module. The best practice is to export the
-      values from other file to speed up the process.
+      them after the tests are clearly defined. 
+      In addition, my code is inside the test curly braces. I did it for the sake of this practice.
+      The best practice is to export the values or methods from other file/s to speed up the process
+      in production enviroments.
     
     - As for starters this may be harder to implement ( because ( CODE > TEST ) instead of 
       ( TEST > CODE ) may be tempting )  ,TDD + TESTING can reduce time loss or risk of
