@@ -17,6 +17,6 @@ As this module for Node is new for me, I tried TDD and what I can say is that:
       bugs in your code and might be fun, it´s like a puzzle game if you get used to!
       
     - As of Version 20 from node, test coverages doesn´t work as expected in Jest and the 
-      documentation is not sufficient but in any case, it´s good to try new ways of coding
+      documentation is not sufficient but, in any case, it´s good to try new ways of coding
       and this module, maybe it become more robust in the future and the Jest dependency is 
       not needed. Legacy solutions are used to replace dependencies.
